@@ -1,0 +1,9 @@
+{
+  "name": "node-wrcard",
+  "version": "0.0.1",
+  "description": "wrcard sdk for node addon",
+  "main": "./lib/wrcard.js",
+  "gypfile": true,
+  "dependencies": {
+  }
+}
