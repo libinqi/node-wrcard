@@ -2,9 +2,9 @@
   "targets": [
     {
       "target_name": "wrcard",
-      "sources": [ "addon/wrcard.cc"],
+      "sources": [ "src/wrcard.cc"],
       "include_dirs": [
-	  'addon'
+	  'src'
       ],
 	  "msbuild_settings": {
 			"Link": {
